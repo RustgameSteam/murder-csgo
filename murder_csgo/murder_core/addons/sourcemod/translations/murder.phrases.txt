@@ -1,0 +1,134 @@
+"Phrases"
+{
+	"MurderWin"
+	{
+		"ru"		"{RED}Murder | {DEFAULT}Убийца выиграл!"
+		"en"    	"{RED}Murder | {DEFAULT}Murderer Win!"
+		"lv"    	"{RED}Murder | {DEFAULT}Slepkava Uzvarēja!"
+
+	}
+
+	"noMurderWin"
+	{
+		"ru" 		"{RED}Murder | {DEFAULT}Очевидцы устранили убийцу!"
+		"en"    	"{RED}Murder | {DEFAULT}Bystanders killed Murderer!"
+		"lv"    	"{RED}Murder | {DEFAULT}Aculiecinieki nogalināja slepkavu!"
+	}
+
+	"MurderBy"
+	{
+		"ru" 		"{RED}Murder | {DEFAULT}Убийцей был: {RED}"
+		"en"    	"{RED}Murder | {DEFAULT}The killer was: {RED}"
+		"lv"    	"{RED}Murder | {DEFAULT}Slepkava bija: {RED}"
+	}
+
+	"MurderLeave"
+	{
+		"ru" 		"{RED}Murder | {DEFAULT}Убийца вышел, рестарт матча!"
+		"en"    	"{RED}Murder | {DEFAULT}The killer is out, restart the match!"
+		"lv"    	"{RED}Murder | {DEFAULT}Slepkava ir ārā, atsāc maču!"
+	}
+
+	"HRole"
+	{
+		"ru" 		"Роль: "
+		"en"    	"Role: "
+		"lv"    	"Loma: "
+	}
+
+	"HEvidence"
+	{
+		"ru" 		"Улики: "
+		"en"    	"Evidence: "
+		"lv"    	"Pierādījumi: "
+	}
+
+	"rdmKill"
+	{
+		"ru"		"{RED}Murder | {DEFAULT}Вы убили невиновного! И вы были наказаны!"
+		"en"    	"{RED}Murder | {DEFAULT}You killed an innocent person! You will be punished!"
+		"lv"    	"{RED}Murder | {DEFAULT}Tu nogalināji nevainīgu spēlētāju! Tu tagad saņemsi sodu"
+	}
+
+	"ChatNoPlayers"
+	{
+		"#format" 	"{1:i}"
+		"ru"    	"{RED}Murder | {DEFAULT}Для корректной игры, нужно минимум {1}!"
+		"en"    	"{RED}Murder | {DEFAULT}To play game correctly we  need atleast {1} players to start the game!"
+		"lv"    	"{RED}Murder | {DEFAULT}Lai spēlē sāktos, bez kļūdām ir vajadzīgi vismaz {1}spēlētāji!"
+	}
+
+	"OwnerRandoll"
+	{
+		"#format" 	"{1:s}"
+		"ru"    	"{RED}Murder | {DEFAULT}Владелец этого тела: {PURPLE}{1}"
+		"en"    	"{RED}Murder | {DEFAULT}Body of dead Player: {PURPLE}{1}"
+		"lv"    	"{RED}Murder | {DEFAULT}Līķis pieder spēlētējam: {PURPLE}{1}"
+	}
+	"OwnerRandollDIS"
+	{
+		"ru"    	"{RED}Murder | {DEFAULT}Владелец этого тела: {RED}Отключился!!"
+		"en"    	"{RED}Murder | {DEFAULT}Body of dead Player: {RED}Player Left Game!!"
+		"lv"    	"{RED}Murder | {DEFAULT}Līķis pieder spēlētējam: {RED}Spēlētājs pameta spēli!!"
+	}
+
+	"tMurder"
+	{
+		"ru"    	"Убийца"
+		"en"    	"Murderer"
+		"lv"    	"Slepkava"
+	}
+	"cMurder"
+	{
+		"ru"		"{RED}Murder | {DEFAULT}Вы являетесь убийцей! Убивайте скрытно!"
+		"en"    	"{RED}Murder | {DEFAULT}You are Murderer! Be sneaky!"
+		"lv"    	"{RED}Murder | {DEFAULT}Tu esi slepkava! Spēle gudri!"
+	}
+
+	"tPolice"
+	{
+		"ru"    	"Полицейский"
+		"en"    	"Police Officer"
+		"lv"    	"Policists"
+	}
+	"cPolice"
+	{
+		"ru"		"{RED}Murder | {DEFAULT}Вы являетесь полицейским! Найдите убийцу!"
+		"en"    	"{RED}Murder | {DEFAULT}You are a Police Officer! Find the murderer!"
+		"lv"    	"{RED}Murder | {DEFAULT}Tu esi policists! Atrodi slepkavu!"
+	}
+
+	"noMurder"
+	{
+		"ru"    	"Очевидец"
+		"en"    	"Bystander"
+		"lv"    	"Aculiecinieks"
+	}
+	"cnoMurder"
+	{
+		"ru"		"{RED}Murder | {DEFAULT}Вы очевидец, опасайтесь убийцу, и находите улики!"
+		"en"    	"{RED}Murder | {DEFAULT}You are a Bystander! Collect murder evidence before you get killed!"
+		"lv"    	"{RED}Murder | {DEFAULT}Tu esi Aculiecinieks! Savāc pierādījumus un nogalini slepkavu!"
+	}
+
+	"Voice"
+	{
+		"ru"		"Голос:"
+		"en"		"Voice:"
+		"lv"		"Balss Skaņas:"
+	}
+
+	"HideKnife"
+	{
+		"ru"		"Спрятать нож: ПКМ"
+		"en"		"Hide Knife: Mouse2"
+		"lv"		"Paslēp nazi: Mouse2"
+	}
+
+	"UseKnife"
+	{
+		"ru"		"Достать нож: ПКМ"
+		"en"		"Pickup Knife: Mouse2"
+		"lv"		"Paņem nazi ar: Mouse2"
+	}
+}

@@ -1,0 +1,32 @@
+"Phrases"
+{
+	"LPStart"
+	{
+		"ru"		"[ Murder ][ Улики ] Запуск плагина."
+	}
+
+	"lPStartOk"
+	{
+		"ru" 		"[ Murder ][ Улики ] Запуск плагина прошел успешно!"
+	}
+
+	"GiveWeaponNoMurder"
+	{
+		"ru"		"{RED}Murder |{DEFAULT} Кто-то получил Револьвер!!!"
+	}
+
+	"PickUpEv"
+	{
+		"ru"		"{RED}Murder |{DEFAULT} Вы подобрали улику!"
+	}
+
+	"addNoModels"
+	{
+		"ru"		"Вы не указали пусть до модельки улики!"
+	}
+
+	"addLoots"
+	{
+		"ru"		"{RED}Murder |{DEFAULT} Улика добавлена"
+	}
+}	
